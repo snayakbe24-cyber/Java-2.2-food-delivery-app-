@@ -1,5 +1,4 @@
 Project Structure
-
 FoodDeliveryApp/
 │
 └── food/
